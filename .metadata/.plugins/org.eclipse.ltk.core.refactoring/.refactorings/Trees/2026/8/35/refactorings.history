@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 4 elements to &apos;Daily-DSA&apos;&#x0D;&#x0A;- Original project: &apos;Trees&apos;&#x0D;&#x0A;- Destination element: &apos;Daily-DSA&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     traversal.PostOrder.java&#x0D;&#x0A;     traversal.InOrderIter.java&#x0D;&#x0A;     traversal.Level.java&#x0D;&#x0A;     traversal.PreOrderIter.java" description="Copy compilation units" element1="/src&lt;traversal{PostOrder.java" element2="/src&lt;traversal{InOrderIter.java" element3="/src&lt;traversal{Level.java" element4="/src&lt;traversal{PreOrderIter.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1787793825871" target="/Daily-DSA" units="4" version="1.0"/>
+</session>
